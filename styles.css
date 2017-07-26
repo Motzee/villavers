@@ -1,0 +1,19 @@
+* {
+    box-sizing : border-box ;
+}
+
+body {
+    margin : 0 ;
+    padding : 1rem ;
+}
+
+table {
+    border : 1px solid black ;
+    border-collapse : collapse ;
+    width : calc(50% - 1rem) ;
+    min-width : 320px ;
+}
+    
+td {
+    border : 1px solid black ;
+}
